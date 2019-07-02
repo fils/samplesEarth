@@ -1,4 +1,4 @@
-# IGSN Test Suite
+# samples.earth
 
 ## Programs
 

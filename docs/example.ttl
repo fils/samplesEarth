@@ -1,0 +1,57 @@
+<http://sample.igsn.org/soilarchive-1> <http://purl.org/dc/terms/created> "2019-05-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://sample.igsn.org/soilarchive-1> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-3884-3420> .
+<http://sample.igsn.org/soilarchive-1> <http://purl.org/dc/terms/isFormatOf> "https://github.com/IGSN/csiro-igsn-schema/blob/master/3.0/example-xml-soilarchive.xml" .
+<http://sample.igsn.org/soilarchive-1> <http://purl.org/dc/terms/isVersionOf> "https://github.com/IGSN/csiro-igsn-schema/blob/master/3.0/example-xml-soilarchive.xml" .
+<http://sample.igsn.org/soilarchive-1> <http://purl.org/dc/terms/modified> "2019-05-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/2002/07/owl#imports> <http://schema.org/> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/2002/07/owl#imports> <http://www.opengis.net/ont/geosparql> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/2006/time> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/ns/dcat> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/ns/ssn/> .
+<http://sample.igsn.org/soilarchive-1> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/ns/ssn/ext> .
+<http://sample.igsn.org/soilarchive/CDS-NSW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Organization> .
+<http://sample.igsn.org/soilarchive/CDS-NSW> <http://www.w3.org/2000/01/rdf-schema#label> "CSIRO Division of Soils (NSW)" .
+<http://sample.igsn.org/soilarchive/CLW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Organization> .
+<http://sample.igsn.org/soilarchive/CLW> <http://www.w3.org/2000/01/rdf-schema#label> "CSIRO Land and Water" .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/created> "1959-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/creator> <http://sample.igsn.org/soilarchive/CDS-NSW> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/issued> "2017-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/spatial> _:b1 .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/title> "ANZ soil sample" .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/type> <http://pid.geoscience.gov.au/def/voc/igsn-codelists/PhysicalSample> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://purl.org/dc/terms/type> <http://pid.geoscience.gov.au/def/voc/igsn-codelists/soil> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/additionalType> <http://pid.geoscience.gov.au/def/voc/igsn-codelists/PhysicalSample> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/additionalType> <http://pid.geoscience.gov.au/def/voc/igsn-codelists/soil> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/creator> <http://sample.igsn.org/soilarchive/CDS-NSW> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/dateCreated> "1959-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/identifier> "soil_specimen_199.CAN.C410.1.2.1" .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/title> "ANZ soil sample" .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://schema.org/url> <http://www.anzsoil.org/data/csiro-natsoil/anzsoilml201/soilspecimen/soil_specimen_199.CAN.C410.1.2.1> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Sample> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/2000/01/rdf-schema#label> "ANZ soil sample" .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/dcat#landingPage> <http://www.anzsoil.org/data/csiro-natsoil/anzsoilml201/soilspecimen/soil_specimen_199.CAN.C410.1.2.1> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/dcat#qualifiedRelation> _:b4 .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/prov#qualifiedAttribution> _:b2 .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/prov#qualifiedAttribution> _:b3 .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/prov#qualifiedAttribution> _:b5 .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/sosa/isResultOf> _:b0 .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/sosa/isSampleOf> <http://www.anzsoil.org/data/csiro-natsoil/anzsoilml201/soil/soil_199.CAN.C410> .
+<http://sample.igsn.org/soilarchive/CSAZSXXXXX> <http://www.w3.org/ns/sosa/isSampleOf> <http://www.anzsoil.org/data/csiro-natsoil/anzsoilml201/soilhorizon/soil_horizon_199.CAN.C410.1.2> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Sampling> .
+_:b0 <http://www.w3.org/ns/sosa/usedProcedure> <http://www.anzsoil.org/def/au/soil/observation-method/soil-pit> .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/Location> .
+_:b1 <http://www.w3.org/ns/dcat#centroid> "POINT(146.067917 -34.79847)"^^<http://www.opengis.net/ont/geosparql#asWKT> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Attribution> .
+_:b2 <http://www.w3.org/ns/dcat#hadRole> <http://registry.it.csiro.au/def/isotc211/CI_RoleCode/owner> .
+_:b2 <http://www.w3.org/ns/prov#agent> <http://sample.igsn.org/soilarchive/CLW> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Attribution> .
+_:b3 <http://www.w3.org/ns/dcat#hadRole> <http://registry.it.csiro.au/def/isotc211/CI_RoleCode/custodian> .
+_:b3 <http://www.w3.org/ns/prov#agent> <http://sample.igsn.org/soilarchive/CLW> .
+_:b4 <http://purl.org/dc/terms/relation> <http://www.anzsoil.org/data/csiro-natsoil/anzsoilml201/soilprofile/soil_profile_199.CAN.C410.1> .
+_:b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Relationship> .
+_:b4 <http://www.w3.org/ns/dcat#hadRole> <http://pid.geoscience.gov.au/def/voc/igsn-codelists/hasSamplingFeature> .
+_:b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Attribution> .
+_:b5 <http://www.w3.org/ns/dcat#hadRole> <http://registry.it.csiro.au/def/isotc211/CI_RoleCode/originator> .
+_:b5 <http://www.w3.org/ns/prov#agent> <http://sample.igsn.org/soilarchive/CDS-NSW> .

@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  samples:
+    image: fcore/samplesearth
+    ports:
+      - 9990:9990
+    environment:
+      - SERVICE_PORTS=9990
+    networks:
+      - web
+
+networks:
+  web:
+    driver: overlay
+

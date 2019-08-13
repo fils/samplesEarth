@@ -1,0 +1,14 @@
+FROM gcr.io/distroless/base
+
+ADD cmd/samplesearth/samplesearth /
+ADD ./web /web
+ADD ./data /data 
+#  NOTE.. content for /uis will be mounted in the compose file via datavolume
+# do this as a data mount now.. indexes are large
+# ADD ./indexes  /indexes 
+
+# Add our binary
+CMD ["/samplesearth"]
+
+# Document that the service listens on this port
+EXPOSE 8080

@@ -1,4 +1,4 @@
-BINARY := samplesearth
+BINARY := webui
 DOCKERVER :=`cat VERSION`
 .DEFAULT_GOAL := linux
 

@@ -1,5 +1,11 @@
 # samples.earth
 
+## About
+
+This is a simple code base to test working with millions of samples
+to simulate an environment to test use of structured data on the web to support
+IGSN Sample registration.  
+
 ## Programs
 
 ### Sample generator
@@ -19,11 +25,7 @@ required registering information (and reads the time stamps)
 
 Pull down Simons git repo for samples. 
 
-## About
 
-This is a simple program to generate 1 million (or any number) of samples
-to simulate an environment to test use of structured data on the web to support
-IGSN Sample registration.  
 
 ## Sitemap
 

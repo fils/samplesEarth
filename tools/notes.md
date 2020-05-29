@@ -1,10 +1,5 @@
 
+The s3 build makes items that claim http://samples.earth/id/bq9gt7iu6s752cg6evhg" and
+landing page "http://samples.earth/doc/bq9gt7iu6s752cg6evhg"
 
-
-Build sitemap
-KV  1.5 minutes
-S3  4.5 minutes
-
-Make S3 objects 
-IGSN sample generator
-Task (1000000/1000000) 12m27s [====================================================================] 100%
+just filter on the ID and route from there...

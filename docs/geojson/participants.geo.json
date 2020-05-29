@@ -1,0 +1,172 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sydney Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Perth Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8605, -31.9505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Canberra Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1300, -35.2809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Palisades New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9133,
+          41.0113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kensington Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2233,
+          -33.9100
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Potsdam, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0645,
+          52.3906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bremen Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8017,
+          53.0793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Munster Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6261,
+          51.9607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Huntsville U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5861,
+          34.7304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Wellington New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7762,
+          -41.2865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Berkeley U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2730,
+          37.8715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Denver U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Slater, IA, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6821,
+          41.8778
+        ]
+      }
+    }
+  ]
+}
